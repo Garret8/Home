@@ -8,7 +8,7 @@
          __/ |                                                  __/ |                           
         |___/                                                  |___/                            
                  -----------------------------------------------------------
-                                        section 1
+                                        basic linux
                  -----------------------------------------------------------
  Nano = a note pad thats runs terminal
  Pwd  = print working dirctory (shows your current directory location)
@@ -33,3 +33,12 @@
  kill = deletes everything in your terminal
  free = shows how much memory and storage is free
  du = shows diffrent directory sizes
+                 -----------------------------------------------------------
+                                        git commands
+                 -----------------------------------------------------------
+ 
+ Initialize a Git repository - git init
+ Staging changes - git add
+ Committing changes - git commit -m
+ Pushing changes to GitHub - git push
+ Pulling updates from a remote repository - git pull
